@@ -145,8 +145,8 @@ body {
     margin-top: 10px;
   }
   
-  aside #sidebar .quote input,
-  aside #sidebar
+  aside#sidebar .quote input,
+  aside#sidebar
   .quote textarea {
     width: 90%;
     padding: 5px;
